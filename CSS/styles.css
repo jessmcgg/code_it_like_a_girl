@@ -1,16 +1,15 @@
 h1 {
-      color: blue;
-      text-aligin: center;
+      color: red;
     }
 
-img {
-  hight: 500px;
-  width: 500px;
-  border: solid 10px blue;
-  }
+    img {
+      height: 500px;
+      width: 500px;
+      border: solid 10px blue;
+    }
 
-  #first {
-    hight: 200;
-    width: 200;
-    border: 0;
-  }
+    #first {
+      height:200px;
+      width: 200px;
+      border: 0;
+    }
